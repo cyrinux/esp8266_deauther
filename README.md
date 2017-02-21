@@ -1,3 +1,5 @@
+Work with arduino 1.6.17 and SDK 2.0.0 patched
+
 # ESP8266 Deauther
 Build your own WiFi jammer with an ESP8266.
 
